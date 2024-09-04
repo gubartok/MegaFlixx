@@ -1,0 +1,74 @@
+body{
+    color: rgb(238, 238, 238);
+    background-color: rgb(2, 14, 72);
+    margin:opx;
+    font-family: "Abril Fatface", serif;
+    margin-bottom: 102;
+}   
+header {
+    border-bottom: solid 2px rgb(0, 3, 3);
+    padding: 20px;
+    font-size: 32px;
+    color: rgb(95, 132, 242);
+}
+section {
+    background: rgb(100, 56, 147);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+div{
+margin: right 28px;
+}
+
+.chamada-texto{
+    margin-right: 5x;
+}
+
+h1{
+    font-size: 48px;
+}
+
+    p {
+        font-size: 28px;
+}
+ing {
+    height: 150px;
+}
+
+.categiria-videos {
+    display: flex;
+    overflow-x: auto;
+    gap: 18px;
+}
+
+section {
+    padding-left: 28px;
+    padding-right: 28px;
+}
+
+.categoria{
+    background: rgb(0, 3, 3);
+    padding-bottom: 22px;
+    padding-top: 88px;
+    display: flex;
+    justify-content: center;
+}
+.categoria{
+    padding-left: 28px;
+    padding-right: 28px;
+    margin-top: 58px;
+}
+.categoria-videos img{
+    opacity: 0.5;
+    height: 208px;
+}
+
+.categiria-videos img:houver{
+    opacity:0.5;
+    border:ipx black rgb(2, 14, 72)
+}
+.categoria h2{
+    color: lightsteelblue;
+}
